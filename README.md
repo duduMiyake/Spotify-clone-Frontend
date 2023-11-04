@@ -1,15 +1,15 @@
 # Spotify Clone Frontend
 <p align="center">
-    This project is a clone of Spotify, created for the purpose of honing my skills. 
+    Esse projeto e um clone do spotify, criado visando praticar e melhorar meus conhecimentos. 
 </p>
 <p align="center">
   <img src="/to_readme/video.gif">
 </p>
 
 ## Features
-This project incorporates the following technologies:
-- **HTML5**: Utilized for structuring and presenting content on the web.
-- **CSS3**: Used for describing the look and formatting of a document written in HTML.
-- **Bootstrap**: A popular CSS Framework for developing responsive and mobile-first websites.
+Esse projeto usa as seguintes tecnologias:
+- **HTML5**: Utilizado para estruturar e apresentar conteúdo na web.
+- **CSS3**: Usado para descrever a aparência e formatação de um documento escrito em HTML.
+- **Bootstrap**: Um framework CSS popular para desenvolver sites responsivos e com design mobile-first.
 
-Feel free to explore the code and any feedback is welcome. Happy coding!
+Sinta-se à vontade para explorar o código e qualquer feedback é bem-vindo.
